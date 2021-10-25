@@ -81,7 +81,18 @@ p {
 }
 
 .info img {
-    max-height: 200px;
+    position: relative; bottom: 10px;
+    max-height: 220px;
+}
+
+.info p {
+    padding: 0 25px 0 25px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.info-left p {
+    position: relative; right: 21px;
 }
 
 .all-three {
