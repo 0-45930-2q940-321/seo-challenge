@@ -105,6 +105,7 @@ p {
 }
 
 .benefits {
+    margin-bottom: 50px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -127,10 +128,16 @@ p {
 
 .benefit-title img {
     display: block;
-    margin: 10px auto;
+    margin: 5px auto;
     max-width: 150px;
 }
 
+.benefit-title p {
+    font-size: 20px;
+    line-height: 1.3;
+}
+
+/* SAME WITH HTML. DELETE THIS LINE AND THE LAST LINE IF YOU NEED THE FOOTER. TL;DR MOCK UP DIDNT SHOW FOOTER.
 .footer {
     padding: 30px;
     clear: both;
@@ -141,3 +148,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+lAST LINE */
