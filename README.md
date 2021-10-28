@@ -1,5 +1,5 @@
 # seo-challenge
-first challenge
+First challenge
 
 Description:
 Grouped repeated formats into a class, increased some font sizes, moved the column section,
