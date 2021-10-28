@@ -5,7 +5,7 @@ Description:
 Grouped repeated formats into a class, increased some font sizes, moved the column section,
 aligned the texts better and made the html height smaller to rid of the excess space.
 
-[Deployed Application] https://94r0372189547389.github.io/seo-challenge/
+Deployed Application: https://94r0372189547389.github.io/seo-challenge/
 
 Here's the full screenshot:
 
